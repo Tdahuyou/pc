@@ -67,3 +67,4 @@ function resizeImage(image) {
 
 - 可以将脚本丢到 Scripty 插件中，简单配置一下自动加载规则，即可在访问 https://github.com/Tdahuyou/ 自己的 github 仓库数据时自动运行。
   - ![](md-imgs/2024-11-29-23-07-30.png)
+
