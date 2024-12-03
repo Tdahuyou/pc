@@ -60,6 +60,13 @@
   <!-- endregion:toc -->
   
 
+- [ ] [0015. chrome for developers 站点简介](https://github.com/Tdahuyou/pc/tree/main/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md) <!-- [locale](./0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md) -->  
+  <!-- region:toc -->
+  - [1. 🔗 chrome for developers](https://github.com/Tdahuyou/pc/tree/main/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md#1--chrome-for-developers)
+  - [2. ⏰ 搂一眼这个站点里边的内容，在笔记中记录一下大致的结构、内容等。](https://github.com/Tdahuyou/pc/tree/main/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md#2--搂一眼这个站点里边的内容在笔记中记录一下大致的结构内容等)
+  <!-- endregion:toc -->
+  
+
 ## 5. ⏰ 待办事项
 
 - [ ] [0005. Snipaste 截图工具](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) -->  
