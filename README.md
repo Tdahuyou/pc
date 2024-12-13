@@ -51,10 +51,8 @@
   
 
 - [ ] [0015. chrome for developers 站点简介](https://github.com/Tdahuyou/pc/tree/main/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md) <!-- [locale](./0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md) -->  
-  <!-- region:toc -->
   - [1. 🔗 chrome for developers](https://github.com/Tdahuyou/pc/tree/main/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md#1--chrome-for-developers)
   - [2. ⏰ 搂一眼这个站点里边的内容，在笔记中记录一下大致的结构、内容等。](https://github.com/Tdahuyou/pc/tree/main/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md#2--搂一眼这个站点里边的内容在笔记中记录一下大致的结构内容等)
-  <!-- endregion:toc -->
   
 
 ## 5. ⏰ 待办事项
@@ -97,4 +95,12 @@
 
 - [ ] [0014. screen brush macos 屏幕画笔工具](https://github.com/Tdahuyou/pc/tree/main/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md) -->  
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
+  
+
+
+
+## ⏰ 待分组
+
+- [ ] [0016. chrome 插件发布流程](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md) <!-- [locale](./0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md) -->  
+  - [1. ⏰](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#1-)
   
