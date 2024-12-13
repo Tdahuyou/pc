@@ -24,6 +24,10 @@
   
   
 
+- [ ] [0017. mac、windows 和桌面、窗口相关的快捷方式](https://github.com/Tdahuyou/pc/tree/main/0017.%20mac%E3%80%81windows%20%E5%92%8C%E6%A1%8C%E9%9D%A2%E3%80%81%E7%AA%97%E5%8F%A3%E7%9B%B8%E5%85%B3%E7%9A%84%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F/README.md) <!-- [locale](./0017.%20mac%E3%80%81windows%20%E5%92%8C%E6%A1%8C%E9%9D%A2%E3%80%81%E7%AA%97%E5%8F%A3%E7%9B%B8%E5%85%B3%E7%9A%84%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F/README.md) -->  
+  - [1. ⏰](https://github.com/Tdahuyou/pc/tree/main/0017.%20mac%E3%80%81windows%20%E5%92%8C%E6%A1%8C%E9%9D%A2%E3%80%81%E7%AA%97%E5%8F%A3%E7%9B%B8%E5%85%B3%E7%9A%84%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F/README.md#1-)
+  
+
 ## 3. 截图相关
 
 - [ ] [0005. Snipaste 截图工具](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) -->  
