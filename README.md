@@ -26,6 +26,22 @@
 
 ## 3. 截图相关
 
+- [ ] [0005. Snipaste 截图工具](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) -->  
+  - [1. 🔗 snipaste](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#1--snipaste)
+  - [2. 📺 bilibili](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#2--bilibili)
+  - [3. 🔍 查看我的 snipaste 首选项配置](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#3--查看我的-snipaste-首选项配置)
+  - [4. 💻 实现网页长截图](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#4--实现网页长截图)
+  - [5. 💻 文本截图](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#5--文本截图)
+  - [6. 💻 快速截全屏](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#6--快速截全屏)
+  - [7. ⏰ 使用贴图，快速拼出简易的封面](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#7--使用贴图快速拼出简易的封面)
+  - [8. 🤔 问：snipaste 将来来会支持长截图（滚动截图）功能吗？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#8--问snipaste-将来来会支持长截图滚动截图功能吗)
+  - [9. 🤔 问：snipaste 的设计初衷是？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#9--问snipaste-的设计初衷是)
+  - [10. 🤔 问：对于 snipaste 来说，何为一次完整的截图？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#10--问对于-snipaste-来说何为一次完整的截图)
+  - [11. 🤔 问：如何开启自动检测窗口？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#11--问如何开启自动检测窗口)
+  - [12. 🤔 问：如何实现无损截图？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#12--问如何实现无损截图)
+  - [13. 🤔 问：能被复制的内容就能被贴出来吗？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#13--问能被复制的内容就能被贴出来吗)
+  
+
 - [ ] [0001. 使用 LICEcap 在 macos 和 windows 系统上录制 gif 图](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md) <!-- [locale](./0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md) -->  
   - [1. 📒 LICEcap 简介](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md#1--licecap-简介)
   - [2. 📒 LICEcap 的安装和使用步骤](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md#2--licecap-的安装和使用步骤)
@@ -67,9 +83,6 @@
   
 
 ## 5. ⏰ 待办事项
-
-- [ ] [0005. Snipaste 截图工具](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) -->  
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
 - [ ] [0006. Wgesture 鼠标手势工具](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md) -->  
