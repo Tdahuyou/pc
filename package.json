@@ -1,8 +1,9 @@
 {
     "scripts": {
-        "merge": "      node ./node_modules/tnotes   --mergeREADME         --repoName=pc",
-        "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=pc",
-        "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=pc",
-        "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=pc"
+        "merge": "           node ./node_modules/tnotes   --mergeREADME         --repoName=pc",
+        "update": "          node ./node_modules/tnotes   --updateREADME        --repoName=pc",
+        "distribute": "      node ./node_modules/tnotes   --distributeREADME    --repoName=pc",
+        "sync": "            node ./node_modules/tnotes   --syncREADME          --repoName=pc",
+        "docs:publish": "    node ./node_modules/tnotes/scripts/docs-publish.js"
     }
 }
