@@ -40,6 +40,18 @@
   - [11. 🤔 问：如何开启自动检测窗口？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#11--问如何开启自动检测窗口)
   - [12. 🤔 问：如何实现无损截图？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#12--问如何实现无损截图)
   - [13. 🤔 问：能被复制的内容就能被贴出来吗？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#13--问能被复制的内容就能被贴出来吗)
+  - 内容概述：
+    - Snipaste 是什么？
+    - 取色
+    - 贴图
+    - 文本截图
+    - 快速截全屏
+    - 自动检测窗口
+    - 无损截图
+    - 使用浏览器命令实现网页长截图
+    - Snipaste 的设计初衷是？
+    - 汇总并答复网友反馈的相关问题
+    - ……
   
 
 - [ ] [0001. 使用 LICEcap 在 macos 和 windows 系统上录制 gif 图](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md) <!-- [locale](./0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md) -->  
