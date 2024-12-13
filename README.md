@@ -114,7 +114,24 @@
   
 
 - [ ] [0007. WeRead 微信读书辅助工具](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md) -->  
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
+  - [1. ⏰ 发布一个 chrome 插件版，并优化代码结构，重新录制介绍视频，将早期的视频给下架掉。](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#1--发布一个-chrome-插件版并优化代码结构重新录制介绍视频将早期的视频给下架掉)
+  - [2. 📺 bilibili](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#2--bilibili)
+  - [3. 🔗 Pack - tw93 大佬的 github 开源项目](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#3--pack---tw93-大佬的-github-开源项目)
+  - [4. 🔗 桌面版 we-read 实现源码见笔记 —— electron.0044](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#4--桌面版-we-read-实现源码见笔记--electron0044)
+  - [5. 📒 脚本功能说明](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#5--脚本功能说明)
+  - [6. 📒 测试设备（键盘）说明](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#6--测试设备键盘说明)
+  - [7. 💻 微信读书脚本](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#7--微信读书脚本)
+  - [8. 💻 使用 scripty 脚本注入插件来自动运行脚本](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#8--使用-scripty-脚本注入插件来自动运行脚本)
+  - [9. 💻 微信读书桌面版的实现](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#9--微信读书桌面版的实现)
+    - [9.1. 解决 macos 安装报错问题](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#91-解决-macos-安装报错问题)
+    - [9.2. 记录开发微信读书桌面版时的桌面环境](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#92-记录开发微信读书桌面版时的桌面环境)
+  - [10. 🤔 问：为什么要写微信读书桌面版？](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#10--问为什么要写微信读书桌面版)
+  - [11. 🤔 问：微信读书脚本如何使用？](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#11--问微信读书脚本如何使用)
+  - [12. 🤔 问：为什么想到要写这个脚本？](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#12--问为什么想到要写这个脚本)
+  - 本节内容概述：
+    - WeRead 辅助脚本
+    - scripty 脚本注入工具
+    - 微信读书桌面版
   
 
 - [ ] [0010. SimpRead 文章收集工具](https://github.com/Tdahuyou/pc/tree/main/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md) -->  
@@ -131,11 +148,11 @@
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
+## 6. 其他
+
 - [ ] [0011. TTSmaker 文本转语音在线工具](https://github.com/Tdahuyou/pc/tree/main/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md) -->  
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
-
-## 6. 其他
 
 - [ ] [0012. DeskPins windows 窗口置顶工具](https://github.com/Tdahuyou/pc/tree/main/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md) -->  
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
