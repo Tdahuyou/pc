@@ -7,6 +7,7 @@
   - [3. 截图相关](#3-截图相关)
   - [4. 浏览器相关](#4-浏览器相关)
   - [5. ⏰ 待办事项](#5--待办事项)
+  - [6. ⏰ 待分组](#6--待分组)
 <!-- endregion:toc -->
 
 ## 1. 仓库内容简介
@@ -97,10 +98,14 @@
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
-
-
-## ⏰ 待分组
+## 6. ⏰ 待分组
 
 - [ ] [0016. chrome 插件发布流程](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md) <!-- [locale](./0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md) -->  
-  - [1. ⏰](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#1-)
+  - [1. ⏰ 缴 5 美元，发布 m2mm 插件，记录详细的发布流程。](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#1--缴-5-美元发布-m2mm-插件记录详细的发布流程)
+  - [2. 🔗 注册成为 chrome 开发者](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#2--注册成为-chrome-开发者)
+  - [3. 🔗 查看 Chrome 官方对开发者发布的插件的一些规范要求](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#3--查看-chrome-官方对开发者发布的插件的一些规范要求)
+  - [4. 📒 Chrome 插件发布的主要步骤](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#4--chrome-插件发布的主要步骤)
+    - [4.1. 前提条件](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#41-前提条件)
+    - [4.2. 发布步骤](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#42-发布步骤)
+    - [4.3. 注意事项](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#43-注意事项)
   
