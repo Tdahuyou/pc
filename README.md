@@ -24,10 +24,6 @@
   
   
 
-- [ ] [0017. mac、windows 和桌面、窗口相关的快捷方式](https://github.com/Tdahuyou/pc/tree/main/0017.%20mac%E3%80%81windows%20%E5%92%8C%E6%A1%8C%E9%9D%A2%E3%80%81%E7%AA%97%E5%8F%A3%E7%9B%B8%E5%85%B3%E7%9A%84%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F/README.md) <!-- [locale](./0017.%20mac%E3%80%81windows%20%E5%92%8C%E6%A1%8C%E9%9D%A2%E3%80%81%E7%AA%97%E5%8F%A3%E7%9B%B8%E5%85%B3%E7%9A%84%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F/README.md) -->  
-  - [1. ⏰](https://github.com/Tdahuyou/pc/tree/main/0017.%20mac%E3%80%81windows%20%E5%92%8C%E6%A1%8C%E9%9D%A2%E3%80%81%E7%AA%97%E5%8F%A3%E7%9B%B8%E5%85%B3%E7%9A%84%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F/README.md#1-)
-  
-
 ## 3. 截图相关
 
 - [ ] [0005. Snipaste 截图工具](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) -->  
@@ -102,7 +98,21 @@
   
 
 - [ ] [0006. Wgesture 鼠标手势工具](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md) -->  
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
+  - [1. 🔗 wgestures](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#1--wgestures)
+  - [2. 🔗 macos 上的窗口管理工具 - Tiles、Rectangle](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#2--macos-上的窗口管理工具---tilesrectangle)
+  - [3. 📺 bilibili](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#3--bilibili)
+  - [4. 📒 视频中涉及到的一些快捷方式](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#4--视频中涉及到的一些快捷方式)
+    - [4.1. 打开调度器 - 展示所有桌面](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#41-打开调度器---展示所有桌面)
+    - [4.2. 切换桌面](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#42-切换桌面)
+    - [4.3. 浏览器标签切换](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#43-浏览器标签切换)
+    - [4.4. 桌面窗口控制](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#44-桌面窗口控制)
+    - [4.5. 浏览器打开控制台](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#45-浏览器打开控制台)
+  - ~~往期工具分享的一些补充说明……~~ —— 请跳过这部分，这部分介绍的内容和早期的视频分享策略相关，现已弃用。
+  - WGesture 常用功能的使用分享……
+    - 桌面控制
+    - 窗口控制
+    - 快速搜索
+    - 其它……
   
 
 - [ ] [0007. WeRead 微信读书辅助工具](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md) -->  
