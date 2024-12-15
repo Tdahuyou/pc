@@ -41,7 +41,7 @@
 ## 2. 掌握 AI 的基本使用技巧
 
 - [ ] [0018. 学会使用 AI 来解决一些基础问题](https://github.com/Tdahuyou/pc/tree/main/0018.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20AI%20%E6%9D%A5%E8%A7%A3%E5%86%B3%E4%B8%80%E4%BA%9B%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98/README.md) <!-- [locale](./0018.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20AI%20%E6%9D%A5%E8%A7%A3%E5%86%B3%E4%B8%80%E4%BA%9B%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98/README.md) -->  
-  - [1. ⏰](https://github.com/Tdahuyou/pc/tree/main/0018.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20AI%20%E6%9D%A5%E8%A7%A3%E5%86%B3%E4%B8%80%E4%BA%9B%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98/README.md#1-)
+  - [1. ⏰ 针对网友提过的一些问题，录制视频实际演示一下如何使用 AI 来解决这些问题，只需要一两分钟，把最基本的流程给录制清楚即可。](https://github.com/Tdahuyou/pc/tree/main/0018.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20AI%20%E6%9D%A5%E8%A7%A3%E5%86%B3%E4%B8%80%E4%BA%9B%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98/README.md#1--针对网友提过的一些问题录制视频实际演示一下如何使用-ai-来解决这些问题只需要一两分钟把最基本的流程给录制清楚即可)
   
 
 ## 3. 工具分享系列
@@ -79,6 +79,10 @@
 - [x] [0017. 回复关于 snipaste 下载失败的问题](https://github.com/Tdahuyou/pc/tree/main/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README.md) <!-- [locale](./0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README.md) -->  
   - [1. 💻 解决方案](https://github.com/Tdahuyou/pc/tree/main/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/README.md#1--解决方案)
   - ![](https://raw.githubusercontent.com/Tdahuyou/pc/main/0017.%20%E5%9B%9E%E5%A4%8D%E5%85%B3%E4%BA%8E%20snipaste%20%E4%B8%8B%E8%BD%BD%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/assets%2F2024-12-14-21-47-53.png)
+  
+
+- [ ] [0019. 记录在 24.12.15 看到的一个截图软件介绍视频](https://github.com/Tdahuyou/pc/tree/main/0019.%20%E8%AE%B0%E5%BD%95%E5%9C%A8%2024.12.15%20%E7%9C%8B%E5%88%B0%E7%9A%84%E4%B8%80%E4%B8%AA%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91/README.md) <!-- [locale](./0019.%20%E8%AE%B0%E5%BD%95%E5%9C%A8%2024.12.15%20%E7%9C%8B%E5%88%B0%E7%9A%84%E4%B8%80%E4%B8%AA%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91/README.md) -->  
+  - [1. ⏰](https://github.com/Tdahuyou/pc/tree/main/0019.%20%E8%AE%B0%E5%BD%95%E5%9C%A8%2024.12.15%20%E7%9C%8B%E5%88%B0%E7%9A%84%E4%B8%80%E4%B8%AA%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91/README.md#1-)
   
 
 ### 3.2. wgesture
