@@ -25,9 +25,16 @@
 ## 1. 仓库内容简介
 
 - [ ] [9999. 仓库简介](https://github.com/Tdahuyou/pc/tree/main/9999.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md) <!-- [locale](./9999.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md) -->  
-  - [1. 📒 pc 仓库内容简介](https://github.com/Tdahuyou/pc/tree/main/9999.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#1--pc-仓库内容简介)
-  - [2. 🔗 bilibili 视频链接](https://github.com/Tdahuyou/pc/tree/main/9999.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#2--bilibili-视频链接)
-  - [3. ⏰ 搬运 yuque 上的工具分享笔记](https://github.com/Tdahuyou/pc/tree/main/9999.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#3--搬运-yuque-上的工具分享笔记)
+  - [1. ⏰ 搬运 yuque 上的工具分享笔记](https://github.com/Tdahuyou/pc/tree/main/9999.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#1--搬运-yuque-上的工具分享笔记)
+  - pc 笔记仓库内容简介
+    - 存放和使用个人电脑（macOS、Widnows）相关的笔记。
+    - 记录一些个人的使用习惯
+    - 记录一些软件的使用分享
+    - 记录网友咨询过的一些问题的回复
+    - ……
+  - https://space.bilibili.com/407241004
+    - 🔗 bilibili 视频链接
+    - 搜【📒 pc】视频合集
   
 
 ## 2. 工具分享系列
