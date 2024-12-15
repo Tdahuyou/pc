@@ -82,7 +82,11 @@
   
 
 - [ ] [0019. 记录在 24.12.15 看到的一个截图软件介绍视频](https://github.com/Tdahuyou/pc/tree/main/0019.%20%E8%AE%B0%E5%BD%95%E5%9C%A8%2024.12.15%20%E7%9C%8B%E5%88%B0%E7%9A%84%E4%B8%80%E4%B8%AA%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91/README.md) <!-- [locale](./0019.%20%E8%AE%B0%E5%BD%95%E5%9C%A8%2024.12.15%20%E7%9C%8B%E5%88%B0%E7%9A%84%E4%B8%80%E4%B8%AA%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91/README.md) -->  
-  - [1. ⏰](https://github.com/Tdahuyou/pc/tree/main/0019.%20%E8%AE%B0%E5%BD%95%E5%9C%A8%2024.12.15%20%E7%9C%8B%E5%88%B0%E7%9A%84%E4%B8%80%E4%B8%AA%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91/README.md#1-)
+  - [1. 📝 个人评价](https://github.com/Tdahuyou/pc/tree/main/0019.%20%E8%AE%B0%E5%BD%95%E5%9C%A8%2024.12.15%20%E7%9C%8B%E5%88%B0%E7%9A%84%E4%B8%80%E4%B8%AA%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91/README.md#1--个人评价)
+  - [2. ⏰ 找时间体验一下 pixpin，参考官方文档，将所有功能都过一遍，确实好使的话，可以考虑从 snipaste 过渡到 pixpin。](https://github.com/Tdahuyou/pc/tree/main/0019.%20%E8%AE%B0%E5%BD%95%E5%9C%A8%2024.12.15%20%E7%9C%8B%E5%88%B0%E7%9A%84%E4%B8%80%E4%B8%AA%E6%88%AA%E5%9B%BE%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91/README.md#2--找时间体验一下-pixpin参考官方文档将所有功能都过一遍确实好使的话可以考虑从-snipaste-过渡到-pixpin)
+  - 【梦想中完美的截图软件，终于有人开发出来了！-哔哩哔哩】 
+    - https://b23.tv/1ZLiTpl
+    - 视频中提到了 windows 系统自带的截图软件、snipaste、pixpin、QQ 截图、钉钉截图。
   
 
 ### 3.2. wgesture
