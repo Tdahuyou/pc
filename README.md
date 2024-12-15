@@ -7,13 +7,14 @@
     - [2.1. snipaste](#21-snipaste)
     - [2.2. wgesture](#22-wgesture)
     - [2.3. 微信读书脚本](#23-微信读书脚本)
-    - [2.4. TypingClub](#24-typingclub)
-    - [2.5. Qwerty Learner](#25-qwerty-learner)
-    - [2.6. TTSmaker](#26-ttsmaker)
-    - [2.7. Deskpins windows](#27-deskpins-windows)
-    - [2.8. 语雀收藏助手](#28-语雀收藏助手)
-    - [2.9. screen brush](#29-screen-brush)
-    - [2.10. LICEcap](#210-licecap)
+    - [2.4. SimpRead](#24-simpread)
+    - [2.5. TypingClub](#25-typingclub)
+    - [2.6. Qwerty Learner](#26-qwerty-learner)
+    - [2.7. TTSmaker](#27-ttsmaker)
+    - [2.8. Deskpins windows](#28-deskpins-windows)
+    - [2.9. 语雀收藏助手](#29-语雀收藏助手)
+    - [2.10. screen brush](#210-screen-brush)
+    - [2.11. LICEcap](#211-licecap)
   - [3. 系统常用快捷方式](#3-系统常用快捷方式)
   - [4. 浏览器相关](#4-浏览器相关)
     - [4.1. 浏览器插件](#41-浏览器插件)
@@ -109,43 +110,49 @@
     - 微信读书桌面版
   
 
-### 2.4. TypingClub
+### 2.4. SimpRead
+
+- [ ] [0010. SimpRead 文章收集工具](https://github.com/Tdahuyou/pc/tree/main/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md) -->  
+  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
+  
+
+### 2.5. TypingClub
 
 - [ ] [0008. TypingClub 打字练习工具](https://github.com/Tdahuyou/pc/tree/main/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README.md) -->  
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
-### 2.5. Qwerty Learner
+### 2.6. Qwerty Learner
 
 - [ ] [0009. Qwerty Learner 打字练习 + 学习外语工具](https://github.com/Tdahuyou/pc/tree/main/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md) -->  
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
-### 2.6. TTSmaker
+### 2.7. TTSmaker
 
 - [ ] [0011. TTSmaker 文本转语音在线工具](https://github.com/Tdahuyou/pc/tree/main/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md) -->  
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
-### 2.7. Deskpins windows
+### 2.8. Deskpins windows
 
 - [ ] [0012. DeskPins windows 窗口置顶工具](https://github.com/Tdahuyou/pc/tree/main/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md) -->  
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0012.%20DeskPins%20windows%20%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
-### 2.8. 语雀收藏助手
+### 2.9. 语雀收藏助手
 
 - [ ] [0013. 语雀收藏助手](https://github.com/Tdahuyou/pc/tree/main/0013.%20%E8%AF%AD%E9%9B%80%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B/README.md) <!-- [locale](./0013.%20%E8%AF%AD%E9%9B%80%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B/README.md) -->  
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0013.%20%E8%AF%AD%E9%9B%80%E6%94%B6%E8%97%8F%E5%8A%A9%E6%89%8B/README.md#1--搬运-yuque-上的早期文章)
   
 
-### 2.9. screen brush
+### 2.10. screen brush
 
 - [ ] [0014. screen brush macos 屏幕画笔工具](https://github.com/Tdahuyou/pc/tree/main/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md) -->  
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0014.%20screen%20brush%20macos%20%E5%B1%8F%E5%B9%95%E7%94%BB%E7%AC%94%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
-### 2.10. LICEcap
+### 2.11. LICEcap
 
 - [ ] [0001. 使用 LICEcap 在 macos 和 windows 系统上录制 gif 图](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md) <!-- [locale](./0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md) -->  
   - [1. 📒 LICEcap 简介](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md#1--licecap-简介)
@@ -198,29 +205,4 @@
     - [5.1. 前提条件](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#51-前提条件)
     - [5.2. 发布步骤](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#52-发布步骤)
     - [5.3. 注意事项](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#53-注意事项)
-  
-
-- [ ] [0010. SimpRead 文章收集工具](https://github.com/Tdahuyou/pc/tree/main/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md) -->  
-  - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
-  
-
-- [ ] [0007. WeRead 微信读书辅助工具](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md) -->  
-  - [1. ⏰ 发布一个 chrome 插件版，并优化代码结构，重新录制介绍视频，将早期的视频给下架掉。](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#1--发布一个-chrome-插件版并优化代码结构重新录制介绍视频将早期的视频给下架掉)
-  - [2. 📺 bilibili](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#2--bilibili)
-  - [3. 🔗 Pack - tw93 大佬的 github 开源项目](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#3--pack---tw93-大佬的-github-开源项目)
-  - [4. 🔗 桌面版 we-read 实现源码见笔记 —— electron.0044](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#4--桌面版-we-read-实现源码见笔记--electron0044)
-  - [5. 📒 脚本功能说明](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#5--脚本功能说明)
-  - [6. 📒 测试设备（键盘）说明](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#6--测试设备键盘说明)
-  - [7. 💻 微信读书脚本](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#7--微信读书脚本)
-  - [8. 💻 使用 scripty 脚本注入插件来自动运行脚本](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#8--使用-scripty-脚本注入插件来自动运行脚本)
-  - [9. 💻 微信读书桌面版的实现](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#9--微信读书桌面版的实现)
-    - [9.1. 解决 macos 安装报错问题](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#91-解决-macos-安装报错问题)
-    - [9.2. 记录开发微信读书桌面版时的桌面环境](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#92-记录开发微信读书桌面版时的桌面环境)
-  - [10. 🤔 问：为什么要写微信读书桌面版？](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#10--问为什么要写微信读书桌面版)
-  - [11. 🤔 问：微信读书脚本如何使用？](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#11--问微信读书脚本如何使用)
-  - [12. 🤔 问：为什么想到要写这个脚本？](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#12--问为什么想到要写这个脚本)
-  - 本节内容概述：
-    - WeRead 辅助脚本
-    - scripty 脚本注入工具
-    - 微信读书桌面版
   
