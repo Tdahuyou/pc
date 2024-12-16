@@ -5,5 +5,11 @@
         "merge": "           node ./node_modules/tnotes   --mergeREADME         --repoName=pc",
         "distribute": "      node ./node_modules/tnotes   --distributeREADME    --repoName=pc",
         "docs:publish": "    node ./node_modules/tnotes/scripts/docs-publish.js"
+    },
+    "tnotesConfig": {
+      "ignoreDirs": [
+        ".vscode",
+        ".git"
+      ]
     }
 }
