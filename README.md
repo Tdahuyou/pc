@@ -21,8 +21,8 @@
     - [5.1. 浏览器插件](#51-浏览器插件)
     - [5.2. 脚本](#52-脚本)
     - [5.3. 插件开发](#53-插件开发)
-- [B 站收藏](#b-站收藏)
-  - [6. 编程相关](#6-编程相关)
+  - [6. B 站收藏](#6-b-站收藏)
+    - [6.1. 编程相关](#61-编程相关)
 <!-- endregion:toc -->
 
 ## 1. 仓库内容简介
@@ -231,9 +231,9 @@
     - [5.3. 注意事项](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#53-注意事项)
   
 
-# B 站收藏
+## 6. B 站收藏
 
-## 6. 编程相关
+### 6.1. 编程相关
 
 - [ ] [0020. 30年前的技术债引发win11离奇bug，微软不敢修！--bilibili--epcdiy](https://github.com/Tdahuyou/pc/tree/main/0020.%2030%E5%B9%B4%E5%89%8D%E7%9A%84%E6%8A%80%E6%9C%AF%E5%80%BA%E5%BC%95%E5%8F%91win11%E7%A6%BB%E5%A5%87bug%EF%BC%8C%E5%BE%AE%E8%BD%AF%E4%B8%8D%E6%95%A2%E4%BF%AE%EF%BC%81--bilibili--epcdiy/README.md) <!-- [locale](./0020.%2030%E5%B9%B4%E5%89%8D%E7%9A%84%E6%8A%80%E6%9C%AF%E5%80%BA%E5%BC%95%E5%8F%91win11%E7%A6%BB%E5%A5%87bug%EF%BC%8C%E5%BE%AE%E8%BD%AF%E4%B8%8D%E6%95%A2%E4%BF%AE%EF%BC%81--bilibili--epcdiy/README.md) -->  
   - https://b23.tv/fZ4H265
