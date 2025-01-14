@@ -27,8 +27,8 @@
 
 ## 1. 仓库内容简介
 
-- [ ] [9999. 仓库简介](https://github.com/Tdahuyou/pc/tree/main/9999.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md) <!-- [locale](./9999.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md) -->  
-  - [1. ⏰ 搬运 yuque 上的工具分享笔记](https://github.com/Tdahuyou/pc/tree/main/9999.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#1--搬运-yuque-上的工具分享笔记)
+- [ ] [0022. 仓库简介](https://github.com/Tdahuyou/pc/tree/main/0022.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md) <!-- [locale](./0022.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md) -->  
+  - [1. ⏰ 搬运 yuque 上的工具分享笔记](https://github.com/Tdahuyou/pc/tree/main/0022.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#1--搬运-yuque-上的工具分享笔记)
   - pc 笔记仓库内容简介
     - 存放和使用个人电脑（macOS、Widnows）相关的笔记。
     - 记录一些个人的使用习惯
@@ -51,6 +51,11 @@
 ### 3.1. snipaste
 
 - [ ] [0005. Snipaste 截图工具](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md) -->  
+  <BilibiliOutsidePlayer id="BV1QR4y1y7GG" />
+<BilibiliOutsidePlayer id="BV1Ak4y1h7st" />
+  
+
+  - [bilibili.pc.0005.1](https://www.bilibili.com/video/BV1QR4y1y7GG)、[bilibili.pc.0005.2](https://www.bilibili.com/video/BV1Ak4y1h7st)
   - [1. 🔗 snipaste](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#1--snipaste)
   - [2. 📺 bilibili](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#2--bilibili)
   - [3. 🔍 查看我的 snipaste 首选项配置](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#3--查看我的-snipaste-首选项配置)
@@ -94,6 +99,10 @@
 ### 3.2. wgesture
 
 - [ ] [0006. Wgesture 鼠标手势工具](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md) -->  
+  <BilibiliOutsidePlayer id="BV1HM411z7Vn" />
+  
+
+  - [bilibili.pc.0006.1](https://www.bilibili.com/video/BV1HM411z7Vn)
   - [1. 🔗 wgestures](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#1--wgestures)
   - [2. 🔗 macos 上的窗口管理工具 - Tiles、Rectangle](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#2--macos-上的窗口管理工具---tilesrectangle)
   - [3. 📺 bilibili](https://github.com/Tdahuyou/pc/tree/main/0006.%20Wgesture%20%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%E5%B7%A5%E5%85%B7/README.md#3--bilibili)
@@ -114,6 +123,11 @@
 ### 3.3. 微信读书脚本
 
 - [ ] [0007. WeRead 微信读书辅助工具](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md) -->  
+  <BilibiliOutsidePlayer id="BV1Ds4y1W7mq" />
+<BilibiliOutsidePlayer id="BV1sZ421p7fW" />
+  
+
+  - [bilibili.pc.0007.1](https://www.bilibili.com/video/BV1Ds4y1W7mq)、[bilibili.pc.0007.2](https://www.bilibili.com/video/BV1sZ421p7fW)
   - [1. ⏰ 发布一个 chrome 插件版，并优化代码结构，重新录制介绍视频，将早期的视频给下架掉。](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#1--发布一个-chrome-插件版并优化代码结构重新录制介绍视频将早期的视频给下架掉)
   - [2. 📺 bilibili](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#2--bilibili)
   - [3. 🔗 Pack - tw93 大佬的 github 开源项目](https://github.com/Tdahuyou/pc/tree/main/0007.%20WeRead%20%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/README.md#3--pack---tw93-大佬的-github-开源项目)
@@ -137,24 +151,41 @@
 ### 3.4. SimpRead
 
 - [ ] [0010. SimpRead 文章收集工具](https://github.com/Tdahuyou/pc/tree/main/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md) -->  
+  <BilibiliOutsidePlayer id="BV19v4y1h7mY" />
+  
+
+  - [bilibili.pc.0010.1](https://www.bilibili.com/video/BV19v4y1h7mY)
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
 ### 3.5. TypingClub
 
 - [ ] [0008. TypingClub 打字练习工具](https://github.com/Tdahuyou/pc/tree/main/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README.md) -->  
+  <BilibiliOutsidePlayer id="BV1Cv4y1474Y" />
+  
+
+  - [bilibili.pc.0008.1](https://www.bilibili.com/video/BV1Cv4y1474Y)
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0008.%20TypingClub%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
 ### 3.6. Qwerty Learner
 
 - [ ] [0009. Qwerty Learner 打字练习 + 学习外语工具](https://github.com/Tdahuyou/pc/tree/main/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md) -->  
+  <BilibiliOutsidePlayer id="BV1sj411A7r2" />
+<BilibiliOutsidePlayer id="BV1sj411A7r2" />
+  
+
+  - [bilibili.pc.0009.1](https://www.bilibili.com/video/BV1sj411A7r2)、[bilibili.pc.0009.2](https://www.bilibili.com/video/BV1sj411A7r2)
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0009.%20Qwerty%20Learner%20%E6%89%93%E5%AD%97%E7%BB%83%E4%B9%A0%20%2B%20%E5%AD%A6%E4%B9%A0%E5%A4%96%E8%AF%AD%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 
 ### 3.7. TTSmaker
 
 - [ ] [0011. TTSmaker 文本转语音在线工具](https://github.com/Tdahuyou/pc/tree/main/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md) -->  
+  <BilibiliOutsidePlayer id="BV1iX4y1a7Fz" />
+  
+
+  - [bilibili.pc.0011.1](https://www.bilibili.com/video/BV1iX4y1a7Fz)
   - [1. ⏰ 搬运 yuque 上的早期文章](https://github.com/Tdahuyou/pc/tree/main/0011.%20TTSmaker%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%AF%AD%E9%9F%B3%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/README.md#1--搬运-yuque-上的早期文章)
   
 

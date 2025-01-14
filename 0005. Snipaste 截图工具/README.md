@@ -1,6 +1,11 @@
 # [0005. Snipaste 截图工具](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7)
 
 <!-- region:toc -->
+<BilibiliOutsidePlayer id="BV1QR4y1y7GG" />
+<BilibiliOutsidePlayer id="BV1Ak4y1h7st" />
+
+
+- [bilibili.pc.0005.1](https://www.bilibili.com/video/BV1QR4y1y7GG)、[bilibili.pc.0005.2](https://www.bilibili.com/video/BV1Ak4y1h7st)
 - [1. 🔗 snipaste](#1--snipaste)
 - [2. 📺 bilibili](#2--bilibili)
 - [3. 🔍 查看我的 snipaste 首选项配置](#3--查看我的-snipaste-首选项配置)
