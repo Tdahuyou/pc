@@ -251,15 +251,14 @@
   - [2. ⏰ 搂一眼这个站点里边的内容，在笔记中记录一下大致的结构、内容等。](https://github.com/Tdahuyou/pc/tree/main/0015.%20chrome%20for%20developers%20%E7%AB%99%E7%82%B9%E7%AE%80%E4%BB%8B/README.md#2--搂一眼这个站点里边的内容在笔记中记录一下大致的结构内容等)
   
 
-- [ ] [0016. chrome 插件发布流程](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md) <!-- [locale](./0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md) -->  
-  - [1. ⏰ 缴 5 美元，发布 m2mm 插件，记录详细的发布流程。](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#1--缴-5-美元发布-m2mm-插件记录详细的发布流程)
-  - [2. 🔗 注册成为 chrome 开发者](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#2--注册成为-chrome-开发者)
-  - [3. 🔗 查看 Chrome 官方对开发者发布的插件的一些规范要求](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#3--查看-chrome-官方对开发者发布的插件的一些规范要求)
-  - [4. 🔗 查看 chrome 插件开发文档 - API reference](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#4--查看-chrome-插件开发文档---api-reference)
-  - [5. 📒 Chrome 插件发布的主要步骤](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#5--chrome-插件发布的主要步骤)
-    - [5.1. 前提条件](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#51-前提条件)
-    - [5.2. 发布步骤](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#52-发布步骤)
-    - [5.3. 注意事项](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#53-注意事项)
+- [x] [0016. chrome 插件发布流程](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md) <!-- [locale](./0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md) -->  
+  - [1. 🔗 注册成为 chrome 开发者](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#1--注册成为-chrome-开发者)
+  - [2. 🔗 查看 Chrome 官方对开发者发布的插件的一些规范要求](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#2--查看-chrome-官方对开发者发布的插件的一些规范要求)
+  - [3. 🔗 查看 chrome 插件开发文档 - API reference](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#3--查看-chrome-插件开发文档---api-reference)
+  - [4. 📒 Chrome 插件发布的主要步骤](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#4--chrome-插件发布的主要步骤)
+    - [4.1. 前提条件](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#41-前提条件)
+    - [4.2. 发布步骤](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#42-发布步骤)
+    - [4.3. 注意事项](https://github.com/Tdahuyou/pc/tree/main/0016.%20chrome%20%E6%8F%92%E4%BB%B6%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B/README.md#43-注意事项)
   
 
 ## 6. B 站收藏
