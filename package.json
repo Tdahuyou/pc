@@ -1,18 +1,18 @@
 {
-    "scripts": {
-        "sync": "            node ./node_modules/tnotes   --syncREADME          --repoName=pc",
-        "update": "          node ./node_modules/tnotes   --updateREADME        --repoName=pc",
-        "merge": "           node ./node_modules/tnotes   --mergeREADME         --repoName=pc",
-        "distribute": "      node ./node_modules/tnotes   --distributeREADME    --repoName=pc",
-        "docs:publish": "    node ./node_modules/tnotes/scripts/docs-publish.js"
-    },
-    "tnotesConfig": {
-      "ignoreDirs": [
-        ".vscode",
-        ".git"
-      ],
-      "doneNoteIds": [
-        "0016"
-      ]
-    }
+  "scripts": {
+    "distribute": "      node ./node_modules/tnotes   --distributeREADME    --repoName=pc",
+    "docs:publish": "    node ./node_modules/tnotes/scripts/docs-publish.js",
+    "merge": "           node ./node_modules/tnotes   --mergeREADME         --repoName=pc",
+    "sync": "            node ./node_modules/tnotes   --syncREADME          --repoName=pc",
+    "update": "          node ./node_modules/tnotes   --updateREADME        --repoName=pc"
+  },
+  "tnotesConfig": {
+    "doneNoteIds": [
+      "0016"
+    ],
+    "ignoreDirs": [
+      ".vscode",
+      ".git"
+    ]
+  }
 }
