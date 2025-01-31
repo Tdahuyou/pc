@@ -226,6 +226,8 @@
 ### 4.1. 编程相关
 
 - [ ] [0020. 30年前的技术债引发win11离奇bug，微软不敢修！--bilibili--epcdiy](https://github.com/Tdahuyou/pc/tree/main/0020.%2030%E5%B9%B4%E5%89%8D%E7%9A%84%E6%8A%80%E6%9C%AF%E5%80%BA%E5%BC%95%E5%8F%91win11%E7%A6%BB%E5%A5%87bug%EF%BC%8C%E5%BE%AE%E8%BD%AF%E4%B8%8D%E6%95%A2%E4%BF%AE%EF%BC%81--bilibili--epcdiy/README.md) <!-- [locale](./0020.%2030%E5%B9%B4%E5%89%8D%E7%9A%84%E6%8A%80%E6%9C%AF%E5%80%BA%E5%BC%95%E5%8F%91win11%E7%A6%BB%E5%A5%87bug%EF%BC%8C%E5%BE%AE%E8%BD%AF%E4%B8%8D%E6%95%A2%E4%BF%AE%EF%BC%81--bilibili--epcdiy/README.md) -->  
+  <BilibiliOutsidePlayer id="fZ4H265" />
+  
   - https://b23.tv/fZ4H265
   - 介绍了 Windows 环境下路径过长的历史 bug
   - 提到了 macOS 和 windows 在升级的时候所选择的策略：
@@ -233,6 +235,8 @@
   - Windows 保留技术债，尽可能对旧程序做兼容。
 
 - [ ] [0021. 下载开源软件还要付钱？论国内搜索引擎中的广告究竟有多不要脸？--bilibili--Z极客](https://github.com/Tdahuyou/pc/tree/main/0021.%20%E4%B8%8B%E8%BD%BD%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E8%BF%98%E8%A6%81%E4%BB%98%E9%92%B1%EF%BC%9F%E8%AE%BA%E5%9B%BD%E5%86%85%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%B9%BF%E5%91%8A%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E4%B8%8D%E8%A6%81%E8%84%B8%EF%BC%9F--bilibili--Z%E6%9E%81%E5%AE%A2/README.md) <!-- [locale](./0021.%20%E4%B8%8B%E8%BD%BD%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E8%BF%98%E8%A6%81%E4%BB%98%E9%92%B1%EF%BC%9F%E8%AE%BA%E5%9B%BD%E5%86%85%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%B9%BF%E5%91%8A%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E4%B8%8D%E8%A6%81%E8%84%B8%EF%BC%9F--bilibili--Z%E6%9E%81%E5%AE%A2/README.md) -->  
+  <BilibiliOutsidePlayer id="FrZ0VMJ" />
+  
   - https://b23.tv/FrZ0VMJ
   - 介绍了使用百度，搜狗，360 等搜索开源免费软件缺下到盗版收费软件的问题。
   - 介绍了广告拦截插件 - AdGuard。
