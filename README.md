@@ -186,7 +186,7 @@
 
 ### 2.11. LICEcap
 
-- [ ] [0001. 使用 LICEcap 在 macos 和 windows 系统上录制 gif 图](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md) <!-- [locale](./0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md) -->  
+- [x] [0001. 使用 LICEcap 在 macos 和 windows 系统上录制 gif 图](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md) <!-- [locale](./0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md) -->  
   - [1. 📒 LICEcap 简介](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md#1--licecap-简介)
   - [2. 📒 LICEcap 的安装和使用步骤](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md#2--licecap-的安装和使用步骤)
     - [2.1. 安装](https://github.com/Tdahuyou/pc/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20LICEcap%20%E5%9C%A8%20macos%20%E5%92%8C%20windows%20%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BD%95%E5%88%B6%20gif%20%E5%9B%BE/README.md#21-安装)
