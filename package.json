@@ -128,12 +128,12 @@
       },
       "0020": {
         "bilibili": [],
-        "done": false,
+        "done": true,
         "ignore": false
       },
       "0021": {
         "bilibili": [],
-        "done": false,
+        "done": true,
         "ignore": false
       },
       "assets": {
