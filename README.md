@@ -27,7 +27,7 @@
 
 ## 1. 仓库内容简介
 
-- [ ] [0016. 仓库简介](https://github.com/Tdahuyou/pc/tree/main/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md) <!-- [locale](./0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md) -->  
+- [x] [0016. 仓库简介](https://github.com/Tdahuyou/pc/tree/main/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md) <!-- [locale](./0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md) -->  
   - [1. 📒 pc 笔记仓库内容简介](https://github.com/Tdahuyou/pc/tree/main/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#1--pc-笔记仓库内容简介)
   - [2. 🔗 bilibili 视频链接](https://github.com/Tdahuyou/pc/tree/main/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#2--bilibili-视频链接)
   - [3. ⏰ 搬运 yuque 上的工具分享笔记](https://github.com/Tdahuyou/pc/tree/main/0016.%20%E4%BB%93%E5%BA%93%E7%AE%80%E4%BB%8B/README.md#3--搬运-yuque-上的工具分享笔记)
