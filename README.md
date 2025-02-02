@@ -41,19 +41,20 @@
   
 
   - [bilibili.pc.0005.1](https://www.bilibili.com/video/BV1QR4y1y7GG)、[bilibili.pc.0005.2](https://www.bilibili.com/video/BV1Ak4y1h7st)
-  - [1. 🔗 snipaste](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#1--snipaste)
-  - [2. 📺 bilibili](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#2--bilibili)
-  - [3. 🔍 查看我的 snipaste 首选项配置](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#3--查看我的-snipaste-首选项配置)
-  - [4. 💻 实现网页长截图](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#4--实现网页长截图)
-  - [5. 💻 文本截图](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#5--文本截图)
-  - [6. 💻 快速截全屏](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#6--快速截全屏)
-  - [7. ⏰ 使用贴图，快速拼出简易的封面](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#7--使用贴图快速拼出简易的封面)
-  - [8. 🤔 问：snipaste 将来来会支持长截图（滚动截图）功能吗？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#8--问snipaste-将来来会支持长截图滚动截图功能吗)
-  - [9. 🤔 问：snipaste 的设计初衷是？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#9--问snipaste-的设计初衷是)
-  - [10. 🤔 问：对于 snipaste 来说，何为一次完整的截图？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#10--问对于-snipaste-来说何为一次完整的截图)
-  - [11. 🤔 问：如何开启自动检测窗口？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#11--问如何开启自动检测窗口)
-  - [12. 🤔 问：如何实现无损截图？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#12--问如何实现无损截图)
-  - [13. 🤔 问：能被复制的内容就能被贴出来吗？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#13--问能被复制的内容就能被贴出来吗)
+  - [1. 🔗 snipaste 相关链接](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#1--snipaste-相关链接)
+  - [2. 📺 bilibili 在线视频 👉🏻 截图工具 | snipaste 的使用分享](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#2--bilibili-在线视频--截图工具--snipaste-的使用分享)
+  - [3. 📺 bilibili 在线视频 👉🏻 使用 snipaste 截图工具截取图片文件的正确做法](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#3--bilibili-在线视频--使用-snipaste-截图工具截取图片文件的正确做法)
+  - [4. 🔍 查看我的 snipaste 首选项配置](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#4--查看我的-snipaste-首选项配置)
+  - [5. 💻 实现网页长截图](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#5--实现网页长截图)
+  - [6. 💻 文本截图](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#6--文本截图)
+  - [7. 💻 快速截全屏](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#7--快速截全屏)
+  - [8. ⏰ 使用贴图，快速拼出简易的封面](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#8--使用贴图快速拼出简易的封面)
+  - [9. 🤔 snipaste 将来来会支持长截图（滚动截图）功能吗？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#9--snipaste-将来来会支持长截图滚动截图功能吗)
+  - [10. 🤔 snipaste 的设计初衷是？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#10--snipaste-的设计初衷是)
+  - [11. 🤔 对于 snipaste 来说，何为一次完整的截图？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#11--对于-snipaste-来说何为一次完整的截图)
+  - [12. 🤔 如何开启自动检测窗口？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#12--如何开启自动检测窗口)
+  - [13. 🤔 如何实现无损截图？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#13--如何实现无损截图)
+  - [14. 🤔 能被复制的内容就能被贴出来吗？](https://github.com/Tdahuyou/pc/tree/main/0005.%20Snipaste%20%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/README.md#14--能被复制的内容就能被贴出来吗)
   - 内容概述：
     - Snipaste 是什么？
     - 取色
