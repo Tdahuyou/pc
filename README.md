@@ -216,7 +216,11 @@
   
 
 - [x] [0022. Video Speed Controller](https://github.com/Tdahuyou/pc/tree/main/0022.%20Video%20Speed%20Controller/README.md) <!-- [locale](./0022.%20Video%20Speed%20Controller/README.md) -->  
-  - [1. 📒 Video Speed Controller 简介](https://github.com/Tdahuyou/pc/tree/main/0022.%20Video%20Speed%20Controller/README.md#1--video-speed-controller-简介)
+  - [1. 📒 Video Speed Controller 是什么](https://github.com/Tdahuyou/pc/tree/main/0022.%20Video%20Speed%20Controller/README.md#1--video-speed-controller-是什么)
+  - [2. 📒 Video Speed Controller 主要功能](https://github.com/Tdahuyou/pc/tree/main/0022.%20Video%20Speed%20Controller/README.md#2--video-speed-controller-主要功能)
+  - [3. 📒 Chrome 用户如何安装 Video Speed Controller](https://github.com/Tdahuyou/pc/tree/main/0022.%20Video%20Speed%20Controller/README.md#3--chrome-用户如何安装-video-speed-controller)
+  - [4. 📒 常用快捷键](https://github.com/Tdahuyou/pc/tree/main/0022.%20Video%20Speed%20Controller/README.md#4--常用快捷键)
+  - [5. 📒 测试对 B 站视频的支持](https://github.com/Tdahuyou/pc/tree/main/0022.%20Video%20Speed%20Controller/README.md#5--测试对-b-站视频的支持)
   
 
 - [ ] [0010. SimpRead 文章收集工具](https://github.com/Tdahuyou/pc/tree/main/0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md) <!-- [locale](./0010.%20SimpRead%20%E6%96%87%E7%AB%A0%E6%94%B6%E9%9B%86%E5%B7%A5%E5%85%B7/README.md) -->  
