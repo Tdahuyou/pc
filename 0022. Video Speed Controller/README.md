@@ -21,12 +21,10 @@
   - **兼容大部分 HTML5 视频**：
     - 适用于 **Bilibili、YouTube、Netflix、Twitch、Twitter、Facebook、百度网盘等网站**。
     - **注意**：部分网站（如爱奇艺、腾讯视频等）可能因为 DRM 保护而无法生效。
-- **如何安装？**
-  - **Chrome / Edge 用户**：
-    - **访问 Chrome 商店**：[Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
-    - 点击 **"添加到 Chrome"**，安装扩展。
-  - **Firefox 用户**：
-    - 可以尝试类似扩展，比如 **"Video Speed Up"**。
+- **Chrome / Edge 用户如何安装？**
+  - **访问 Chrome 商店**：[Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+  - ![](assets/2025-02-03-19-45-27.png)
+  - **Firefox 用户**：可以尝试类似扩展，比如 **"Video Speed Up"**。
 - **常用快捷键**
 
 | 功能            | 快捷键  | 说明 |
