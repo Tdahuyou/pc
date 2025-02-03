@@ -9,23 +9,23 @@
 - **Video Speed Controller 是什么**
   - **Video Speed Controller** 是一款 **Chrome 和 Edge 浏览器扩展**，用于控制 HTML5 视频的播放速度。它适用于 B 站、YouTube、Netflix、Twitter 等大多数网页播放器，让用户可以自由加速、减速、快进或后退视频。
 - **主要功能**
-  1. **调整播放速度**：
+  - **调整播放速度**：
     - 支持 **加速（默认 D 键）** 和 **减速（默认 S 键）**，最小可调到 0.1 倍速，最大可超过 16 倍速（具体上限取决于浏览器支持）。
     - 可以 **自定义每次调整的速度步长**（默认 0.1x）。
-  2. **倒退/快进**：
+  - **倒退/快进**：
     - 通过快捷键 **Z（倒退）/ X（快进）**，可以快速跳过或回看某个片段。
-  3. **自动保存倍速**：
+  - **自动保存倍速**：
     - 观看不同视频时，扩展会记住你上次的速度设置，避免每次手动调整。
-  4. **隐藏控制面板**：
+  - **隐藏控制面板**：
     - 默认情况下，播放器上会显示一个 **透明的倍速控制器**，可以手动隐藏或更改外观。
-  5. **兼容大部分 HTML5 视频**：
+  - **兼容大部分 HTML5 视频**：
     - 适用于 **Bilibili、YouTube、Netflix、Twitch、Twitter、Facebook、百度网盘等网站**。
     - **注意**：部分网站（如爱奇艺、腾讯视频等）可能因为 DRM 保护而无法生效。
 - **如何安装？**
-  1. **Chrome / Edge 用户**：
+  - **Chrome / Edge 用户**：
     - **访问 Chrome 商店**：[Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
     - 点击 **"添加到 Chrome"**，安装扩展。
-  2. **Firefox 用户**：
+  - **Firefox 用户**：
     - 可以尝试类似扩展，比如 **"Video Speed Up"**。
 - **常用快捷键**
 
